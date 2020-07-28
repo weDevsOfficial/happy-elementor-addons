@@ -23,20 +23,23 @@
 <br/>
 
 ![HappyAddons Banner](https://ps.w.org/happy-elementor-addons/assets/banner-1544x500.jpg)
+<h3 align="center">Welcome To HappyAddons</h3>
 
-# Welcome to the HappyAddons!
+***
 
-[📥 Download HappyAddons](https://downloads.wordpress.org/plugin/happy-elementor-addons.zip)
+[📥 Download](https://downloads.wordpress.org/plugin/happy-elementor-addons.zip)
 
-[📜 HappyAddons documentation](https://happyaddons.com/docs/)
+[🖼 Demo](https://demo.happyaddons.com/)
 
-[📧 Email support](https://happyaddons.com/happy-support/)
+[🌍 Website](https://happyaddons.com/)
+
+[🏆 Community](https://www.facebook.com/groups/HappyAddonsCommunity)
+
+[📜 Documentation](https://happyaddons.com/docs/)
+
+[⭐️ Support](https://happyaddons.com/happy-support/)
 
 [🛎 Contact](https://happyaddons.com/contact-us/)
-
-[🌍 HappyAddons website](https://happyaddons.com/)
-
-[🖼 HappyAddons demo](https://demo.happyaddons.com/)
 
 [🐞 Report bug or issue](https://github.com/weDevsOfficial/happy-elementor-addons/issues)
 
