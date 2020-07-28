@@ -23,9 +23,8 @@
 <br/>
 
 ![HappyAddons Banner](https://ps.w.org/happy-elementor-addons/assets/banner-1544x500.jpg)
-<h3 align="center">Welcome To HappyAddons</h3>
 
-***
+# Welcome To HappyAddons
 
 [📥 Download](https://downloads.wordpress.org/plugin/happy-elementor-addons.zip)
 
