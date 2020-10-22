@@ -22,7 +22,9 @@
 </p>
 <br/>
 
-![HappyAddons Banner](https://ps.w.org/happy-elementor-addons/assets/banner-1544x500.jpg)
+<a href="https://happyaddons.com/" target="_blank">
+    <img src="https://ps.w.org/happy-elementor-addons/assets/banner-1544x500.jpg" alt="HappyAddons Banner">
+</a>
 
 # Welcome To HappyAddons
 
